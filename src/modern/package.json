@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "name": "next-nesting-example-modern",
+  "dependencies": {
+    "react-redux": "7.2.1"
+  }
+}
